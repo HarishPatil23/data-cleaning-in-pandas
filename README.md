@@ -1,4 +1,4 @@
-# Customer Call List — Data Cleaning Project
+# Customer Call List - Data Cleaning Project
 
 A beginner-friendly data cleaning workflow using **Python** and **pandas**. Raw customer data from an Excel spreadsheet is cleaned, standardised, and filtered down to a actionable call list.
 
